@@ -1,0 +1,8 @@
+print("this is a structured programming class")
+print(6+4)
+print("the sum of numbers=",7+3)
+print("your age is",2024-2002)
+print("Given numbers 6 and 4")
+print("sum:",6+4)
+print("difference:",6-4)
+print("product:")
